@@ -1,0 +1,101 @@
+{
+  "profs": [
+    {
+      "nome": "Alana",
+      "compCurricular" : "Banco de dados II",
+      "img": "urldaimagem"
+    },
+    {
+      "nome": "Alexsandro",
+      "compCurricular" : "Algoritmo e Programação Estruturada",
+      "img": "/home/lucas/Downloads/AllTheRecipes/AllTheRecipes/jogodamemoria/app/src/main/res/drawable/alex.jpg"
+    },
+    {
+      "nome": "Candido",
+      "compCurricular" : "Algoritmo e Programação Estruturada",
+      "img": "urldaimagem"
+    },
+    {
+      "nome": "Crishane",
+      "compCurricular" : "Algoritmo e Programação Estruturada",
+      "img": "urldaimagem"
+    },
+    {
+      "nome": "Edemberg",
+      "compCurricular" : "Algoritmo e Programação Estruturada",
+      "img": "urldaimagem"
+    },
+    {
+      "nome": "Fred",
+      "compCurricular" : "Fundamentos da computação",
+      "img": "urldaimagem"
+    },
+    {
+      "nome": "Giovani",
+      "compCurricular" : "Fundamentos da computação",
+      "img": "urldaimagem"
+    },
+    {
+      "nome": "Jose Gomes",
+      "compCurricular" : "Fundamentos de Redes",
+      "img": "urldaimagem"
+    },
+    {
+      "nome": "Pryscilla",
+      "compCurricular" : "Fundamentos de Redes",
+      "img": "urldaimagem"
+    },
+    {
+      "nome": "Francisco Dantas",
+      "compCurricular" : "Linguagens de Marcação",
+      "img": "urldaimagem"
+    },
+    {
+      "nome": "Thiago Jose",
+      "compCurricular" : "Estrutura de Dados",
+      "img": "urldaimagem"
+    },
+    {
+      "nome": "Nilton",
+      "compCurricular" : "Banco de Dados I",
+      "img": "urldaimagem"
+    },
+    {
+      "nome": "Lafayette",
+      "compCurricular" : "Fundamentos da Metodologia",
+      "img": "urldaimagem"
+    },
+    {
+      "nome": "Luiz Carlos",
+      "compCurricular" : "Linguagens de Script",
+      "img": "urldaimagem"
+    },
+    {
+      "nome": "Denio",
+      "compCurricular" : "Segurança de Dados",
+      "img": "urldaimagem"
+    },
+    {
+      "nome": "Heremita",
+      "compCurricular" : "Comércio Eletrônico",
+      "img": "urldaimagem"
+    },
+    {
+      "nome": "Varandas",
+      "compCurricular" : "Empreendorismo",
+      "img": "urldaimagem"
+    },
+    {
+      "nome": "Valeria",
+      "compCurricular" : "Padroões de projeto de software",
+      "img": "urldaimagem"
+    },
+    {
+      "nome": "Heremita",
+      "compCurricular" : "Comércio Eletrônico",
+      "img": "urldaimagem"
+    }
+
+
+  ]
+}
