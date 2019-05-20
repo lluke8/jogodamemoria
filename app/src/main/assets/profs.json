@@ -3,97 +3,97 @@
     {
       "nome": "Alana",
       "compCurricular" : "Banco de dados II",
-      "img": "urldaimagem"
+      "image": "https://i.ibb.co/2yvQx3C/alana.jpg"
     },
     {
       "nome": "Alexsandro",
       "compCurricular" : "Algoritmo e Programação Estruturada",
-      "img": "/home/lucas/Downloads/AllTheRecipes/AllTheRecipes/jogodamemoria/app/src/main/res/drawable/alex.jpg"
+      "image": "/home/lucas/Downloads/AllTheRecipes/AllTheRecipes/jogodamemoria/app/src/main/res/drawable/alex.jpg"
     },
     {
       "nome": "Candido",
       "compCurricular" : "Algoritmo e Programação Estruturada",
-      "img": "urldaimagem"
+      "image": "urldaimagem"
     },
     {
       "nome": "Crishane",
       "compCurricular" : "Algoritmo e Programação Estruturada",
-      "img": "urldaimagem"
+      "image": "crishane"
     },
     {
       "nome": "Edemberg",
       "compCurricular" : "Algoritmo e Programação Estruturada",
-      "img": "urldaimagem"
+      "image": "urldaimagem"
     },
     {
       "nome": "Fred",
       "compCurricular" : "Fundamentos da computação",
-      "img": "urldaimagem"
+      "image": "urldaimagem"
     },
     {
       "nome": "Giovani",
       "compCurricular" : "Fundamentos da computação",
-      "img": "urldaimagem"
+      "image": "urldaimagem"
     },
     {
       "nome": "Jose Gomes",
       "compCurricular" : "Fundamentos de Redes",
-      "img": "urldaimagem"
+      "image": "urldaimagem"
     },
     {
       "nome": "Pryscilla",
       "compCurricular" : "Fundamentos de Redes",
-      "img": "urldaimagem"
+      "image": "urldaimagem"
     },
     {
       "nome": "Francisco Dantas",
       "compCurricular" : "Linguagens de Marcação",
-      "img": "urldaimagem"
+      "image": "urldaimagem"
     },
     {
       "nome": "Thiago Jose",
       "compCurricular" : "Estrutura de Dados",
-      "img": "urldaimagem"
+      "image": "urldaimagem"
     },
     {
       "nome": "Nilton",
       "compCurricular" : "Banco de Dados I",
-      "img": "urldaimagem"
+      "image": "urldaimagem"
     },
     {
       "nome": "Lafayette",
       "compCurricular" : "Fundamentos da Metodologia",
-      "img": "urldaimagem"
+      "image": "urldaimagem"
     },
     {
       "nome": "Luiz Carlos",
       "compCurricular" : "Linguagens de Script",
-      "img": "urldaimagem"
+      "image": "urldaimagem"
     },
     {
       "nome": "Denio",
       "compCurricular" : "Segurança de Dados",
-      "img": "urldaimagem"
+      "image": "urldaimagem"
     },
     {
       "nome": "Heremita",
       "compCurricular" : "Comércio Eletrônico",
-      "img": "urldaimagem"
+      "image": "urldaimagem"
     },
     {
       "nome": "Varandas",
       "compCurricular" : "Empreendorismo",
-      "img": "urldaimagem"
+      "image": "urldaimagem"
     },
     {
       "nome": "Valeria",
       "compCurricular" : "Padroões de projeto de software",
-      "img": "urldaimagem"
+      "image": "urldaimagem"
     },
     {
       "nome": "Heremita",
       "compCurricular" : "Comércio Eletrônico",
-      "img": "urldaimagem"
+      "image": "urldaimagem"
     }
 
 

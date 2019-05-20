@@ -7,8 +7,10 @@ import org.json.JSONObject
 class Professor (
         var nome:String,
         var compCurricular:String,
-        var img:String
+        var imageUrl:String
+
 ){
+
 
 
 
@@ -27,7 +29,7 @@ class Professor (
                 (0 until profs.length()).mapTo(profList) {
                     Professor(profs.getJSONObject(it).getString("nome"),
                             profs.getJSONObject(it).getString("compCurricular"),
-                            profs.getJSONObject(it).getString("img"))
+                            profs.getJSONObject(it).getString("image"))
                 }
             } catch (e: JSONException) {
                 e.printStackTrace()

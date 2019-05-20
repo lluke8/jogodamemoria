@@ -10,10 +10,12 @@ import android.widget.*
 class MainActivity : AppCompatActivity() {
     private lateinit var btnGame:Button
     private lateinit var btnListar:Button
+    private lateinit var txtView: TextView
+    private lateinit var btnSalvar:Button
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
+        val dao = PartidaDAO(this@MainActivity)
         this.btnGame = findViewById(R.id.btnGame)
         this.btnGame.setOnClickListener({
             val it = Intent(this@MainActivity, JogoDaMemoriaActivity::class.java)
@@ -28,6 +30,14 @@ class MainActivity : AppCompatActivity() {
             it.putExtra("MSG_IDA", "Profs")
             startActivity(it)
         })
+
+        this.txtView = findViewById(R.id.txtView)
+        this.btnSalvar = findViewById(R.id.btnSalvar)
+
+        this.btnSalvar.setOnClickListener({
+
+        })
+
     }
 
 

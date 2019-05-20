@@ -9,6 +9,10 @@ import android.widget.ImageView
 import android.widget.TextView
 import com.squareup.picasso.Picasso
 
+
+
+
+
 class RecipeAdapter(private val context: Context,
                     private val dataSource: ArrayList<Professor>) : BaseAdapter() {
 
@@ -57,7 +61,9 @@ class RecipeAdapter(private val context: Context,
         subtitleTextView.text = professor.compCurricular
 
         // 3
-        Picasso.with(context).load(professor.img).placeholder(R.mipmap.ic_launcher).into(thumbnailImageView)
+        Picasso.with(context).load(professor.imageUrl).placeholder(R.mipmap.ic_launcher).into(thumbnailImageView)
+
+
 
         return rowView
     }

@@ -22,4 +22,16 @@
         android:id="@+id/btnListar"
         android:text="Listar Profs"
         />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtView"
+        android:hint="seu nome"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnSalvar"
+        android:text="Salvar"/>
 </LinearLayout>
